@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: burlywood;
+}
+
+h1 {
+  color: #228cdc;
+}
+
+input {
+  background-color: #b52b79;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+label {
+  color: gray;
+  font-size: 18px;
+}
+
+button {
+  color: red;
+  border-radius: 20px;
+  border-color: #228cdc;
+}
+
+div {
+  background-color: aqua;
+  width: 400px;
+  margin: auto;
+}
