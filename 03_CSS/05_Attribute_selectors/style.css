@@ -1,0 +1,7 @@
+[href]{
+    color: red;
+}
+
+[id][href^="https"]{
+    color: rgb(0, 0, 0);
+}
