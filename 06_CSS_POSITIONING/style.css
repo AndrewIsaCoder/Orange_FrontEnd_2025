@@ -1,0 +1,39 @@
+[class^="box"] {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.box1 {
+  background-color: red;
+  top: 10px;
+}
+
+.box2 {
+  background-color: brown;
+  top: 10px;
+  left: 100px;
+}
+
+.container {
+  border: 2px solid black;
+  position: relative;
+}
+
+.box3 {
+  background-color: green;
+  position: absolute;
+  left: 50px;
+}
+
+.box4 {
+  background-color: blueviolet;
+  position: absolute;
+  left: 75px;
+}
+
+.box5 {
+  background-color: coral;
+  position: absolute;
+  left: 100px;
+}
