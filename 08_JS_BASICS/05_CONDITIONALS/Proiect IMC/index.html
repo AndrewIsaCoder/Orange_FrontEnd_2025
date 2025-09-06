@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>| IMC CALCULATOR |</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="greutate">
+            <label for="greutate">Introduceti greutatea dumneavoastra in kg.</label>
+            <input type="text" id="greutate" placeholder="kg">
+        </div>
+        <div class="inaltime">
+            <label for="inaltime">Introduceti inaltimea dumneavoastra in cm.</label>
+            <input type="text" id="inaltime" placeholder="cm">
+        </div>
+        <button id="calculare" onclick="calculeazaImc()">Calculati</button>
+        <p id="text-rezultat"></p>
+    </div>
+    <script src="app.js"></script>
+</body>
