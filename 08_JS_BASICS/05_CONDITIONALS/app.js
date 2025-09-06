@@ -17,3 +17,4 @@
 // } else if (conditie4) {
 //     // cod care se executa daca conditia4 este adevarata
 // }
+
