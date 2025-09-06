@@ -2,7 +2,7 @@ var inputGreutate = document.getElementById("greutate");
 var inputInaltime = document.getElementById("inaltime");
 var paragrafRezultat = document.getElementById("text-rezultat");
 
-console.log("dfdfddf");
+
 
 function calculeazaImc() {
   var greutate = Number(inputGreutate.value);
