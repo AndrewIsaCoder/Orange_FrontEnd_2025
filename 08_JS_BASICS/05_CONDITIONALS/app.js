@@ -18,3 +18,8 @@
 //     // cod care se executa daca conditia4 este adevarata
 // }
 
+var inputCapacitateCilindrica = document.getElementById("capacitate-cilindrica");
+
+function calculeazImpozitAuto() {
+
+}
