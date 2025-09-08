@@ -329,3 +329,14 @@ var alimente = [
     "id": "59"
   }
 ]
+
+
+
+// <div class="card">
+//         <p class="name">Paste</p>
+//         <img
+//           src="https://static.mega-image.ro/medias/sys_master/products/hd2/h7c/9348203249694.jpg"
+//           alt="paste"
+//         />
+//         <p class="price">7.74 lei</p>
+//       </div>
